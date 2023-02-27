@@ -1,0 +1,15 @@
+C:\Users\PERSONAL\source\repos\cursoY\cursoY\bin\Debug\net6.0\cursoY.exe
+C:\Users\PERSONAL\source\repos\cursoY\cursoY\bin\Debug\net6.0\cursoY.deps.json
+C:\Users\PERSONAL\source\repos\cursoY\cursoY\bin\Debug\net6.0\cursoY.runtimeconfig.json
+C:\Users\PERSONAL\source\repos\cursoY\cursoY\bin\Debug\net6.0\cursoY.dll
+C:\Users\PERSONAL\source\repos\cursoY\cursoY\bin\Debug\net6.0\cursoY.pdb
+C:\Users\PERSONAL\source\repos\cursoY\cursoY\obj\Debug\net6.0\cursoY.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\source\repos\cursoY\cursoY\obj\Debug\net6.0\cursoY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\source\repos\cursoY\cursoY\obj\Debug\net6.0\cursoY.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\source\repos\cursoY\cursoY\obj\Debug\net6.0\cursoY.AssemblyInfo.cs
+C:\Users\PERSONAL\source\repos\cursoY\cursoY\obj\Debug\net6.0\cursoY.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\source\repos\cursoY\cursoY\obj\Debug\net6.0\cursoY.dll
+C:\Users\PERSONAL\source\repos\cursoY\cursoY\obj\Debug\net6.0\refint\cursoY.dll
+C:\Users\PERSONAL\source\repos\cursoY\cursoY\obj\Debug\net6.0\cursoY.pdb
+C:\Users\PERSONAL\source\repos\cursoY\cursoY\obj\Debug\net6.0\cursoY.genruntimeconfig.cache
+C:\Users\PERSONAL\source\repos\cursoY\cursoY\obj\Debug\net6.0\ref\cursoY.dll
